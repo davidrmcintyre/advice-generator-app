@@ -8,10 +8,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-
-  - [Useful resources](#useful-resources)
 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -32,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link to Github Repo](https://github.com/davidrmcintyre/advice-generator-app)
+- Live Site URL: [Live Site](https://davidrmcintyre.github.io/advice-generator-app/)
 
 
 ### Built with
@@ -43,5 +40,6 @@ Users should be able to:
 - Flexbox
 - JavaScript
 - Mobile-first workflow
+- Advice API: [Link to the advice API](https://api.adviceslip.com/)
 
 
