@@ -9,6 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  - [Acknowledgements](#acknowledgements)
 
 
 ## Overview
@@ -40,4 +41,13 @@ Users should be able to:
 - Mobile-first workflow
 - Advice API: [Link to the advice API](https://api.adviceslip.com/)
 
+
+### Acknowledgements
+
+This challenge was completed with help from the following youtube tutorial
+from youtuber Mr. Coder.
+
+[link to tutorial](https://www.youtube.com/watch?v=ipTfXOXBCoQ&list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&index=12)
+
+You can find his channel here: [link to youtube](https://www.youtube.com/@MrCoderYt)
 
